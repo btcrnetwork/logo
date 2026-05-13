@@ -1,0 +1,16 @@
+{
+  "name": "ՍЅᎠТ",
+  "symbol": "ՍЅᎠТ",
+  "description": "Community-Driven Digital Asset. NOT a stablecoin, NOT Tether (USDT).",
+  "image": "https://raw.githubusercontent.com/btcrnetwork/logo/refs/heads/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/btcrnetwork/logo/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
